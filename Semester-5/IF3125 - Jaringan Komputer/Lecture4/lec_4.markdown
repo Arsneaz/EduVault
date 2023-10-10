@@ -1,4 +1,4 @@
-![image](https://github.com/Arsneaz/EduVault/assets/96061442/611d9d2b-779e-4f6f-9c93-27bda816caba)![image](https://github.com/Arsneaz/EduVault/assets/96061442/2fc5f82c-dae8-4efe-a0ab-c821b52d8be1)---
+---
 title: "Physical Layer"
 date: 2023-10-09 21:19:25
 tags: []
