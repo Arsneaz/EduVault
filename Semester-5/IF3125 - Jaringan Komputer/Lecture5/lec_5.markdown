@@ -2,7 +2,7 @@
 title: "Protokol OSI dan TCP"
 date: 2023-10-03 08:20:43
 tags: [Jaringan Komputer]
-categories: [text](https://address)]
+categories: [Notes]
 ---
 
 ### Layer 7 Application 
@@ -56,6 +56,7 @@ The combination of the source IP address and source port number, or the
 destination IP address and destination port number is known as a socket
 
 ### TCP Communation Process / TCP Server Processes
+--
 Each appliaction process running on a server is configured to use a port
 number
 - An indivdual server cannot have two services assigned to the same port number
