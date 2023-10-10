@@ -1,4 +1,4 @@
----
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/611d9d2b-779e-4f6f-9c93-27bda816caba)![image](https://github.com/Arsneaz/EduVault/assets/96061442/2fc5f82c-dae8-4efe-a0ab-c821b52d8be1)---
 title: "Physical Layer"
 date: 2023-10-09 21:19:25
 tags: []
@@ -37,6 +37,26 @@ Data di enkapsulasi oleh layer link dengan header dan trailer untuk membentuk se
 - Trailer
 
 Jumlah informasi yang dibawa dari frame bervariasi bergantung pada hak akses informasi dan topologinya.
+
+### Tugas Dari Data-Link Layer
+1. Error Control
+Data bisa mengalami error pada saat proses pengiriman, error control bertujuan untuk menangani bila ada kerusakan data.
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/afbeed6c-a3b7-4f3d-8f03-57f9ce68e971)
+2. Error Detection
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/f25aecd0-6c07-49c7-8796-91a114840f51)
+3. Flow Control
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/a5f5616f-9416-4812-9e39-fe8490593fa3)
+4. Addressing
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/69236a47-a455-4bef-90e7-6058eb38317e)
+
+### Jenis Filtering
+---
+1. Stataic Packet Filtering: Jenis filter yang di implementasikan pada kebanyakan router, dimana modifikasi terdapat aturan-aturan filter yang harus dilakukan secara mineral.
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/63174ade-7c4a-4959-af11-c8b15f3063c0)
+2. Dynamic Packet Filtering: apabila proses-proses tertentu disisi luar jaringan dapat merubah aturan filter.
+![image](https://github.com/Arsneaz/EduVault/assets/96061442/16d2c3cf-955b-48a8-b44d-cbfca295c9ce)
+
+
 
 
 
